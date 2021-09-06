@@ -1,0 +1,28 @@
+# This is an example on how to tell the program to do shit
+
+# Main song data
+song {
+    title = "Untitled Song Name"
+    subtitle = "#*Putting a #vhashtag plus a #rspecific #gcharacter #Mgives u #Acolors!!"
+    title_x = "1280"
+    title_y = "870"
+    start_time = "3000"
+    background_color = "#67bf43"
+}
+
+# Adds a stem
+# Make sure the audio is in WAV form (mono signed 16)
+stem {
+    file = "untitled265 31-Massive X.wav"
+    scene_reactor = "burner 2"
+}
+
+stem {
+    file = "untitled265 10-BBC Symphony Orchestra (64 Bit).wav"
+    scene_reactor = "burner 1"
+}
+
+stem {
+    file = "untitled265 49-Bongos 121 bpm.wav"
+    scene_reactor = "burner 3"
+}
